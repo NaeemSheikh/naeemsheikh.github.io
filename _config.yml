@@ -1,1 +1,16 @@
-theme: jekyll-theme-tactile
+# User config
+author: "Naeem Sheikh"
+tagline: "Biomedical Engineer | Embedded Systems Developer | Python Programmer"
+description: "Hi, I am Naeem. I am a Biomedical Engineer focused on developing medical devices and applications related to health using embedded systems and Python programming."
+keywords: "Python, Biomedical Engineer, Embedded Systems, Arduino, Raspberry Pi, OpenCV, biosignals, Processing, P5JS"
+email: "naeem.sheikh023@gmail.com"
+linkedin: "https://www.linkedin.com/in/naeem-sheikh/"
+twitter: "https://twitter.com/_naeemS"
+github: "https://github.com/NaeemSheikh"
+
+# Site config
+# baseurl: "/pineapple"
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
