@@ -6,7 +6,7 @@ categories: introduction
 ---
 Hi there!
 
-How anyone other than me might see this, I don't know. However, if you do, this place should have a couple posts regarding stuff that interests me. 
+How anyone other than me might see this, I don't know. However, if you do, this place should have a couple posts regarding stuff that interests me. Perhaps it might help in your learning journey too.
 
 Learning is one thing, but going beyond just reading or attending lectures requires effort to gain more than just surface level knowledge. This place will be one of my outlets to get into my understanding of the theoretical concepts regarding different things I am interested about. 
 
