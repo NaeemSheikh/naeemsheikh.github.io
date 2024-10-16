@@ -1,29 +1,31 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-10-16 15:10:40 -0400
-categories: jekyll update
+title:  "Hello World!"
+date:   2024-10-16 15:50:40 -0400
+categories: introduction
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hi there!
 
-Jekyll requires blog post files to be named according to the following format:
+How anyone other than me might see this, I don't know. However, if you do, this place should have a couple posts regarding stuff that interests me. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Learning is one thing, but going beyond just reading or attending lectures requires effort to gain more than just surface level knowledge. This place will be one of my outlets to get into my understanding of the theoretical concepts regarding different things I am interested about. 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Along with projects that I hopefully start doing and posting to build up my portfolio, I really want these efforts to help me feel more confident in my practical and theoretical understanding beyond just what I am learning.
 
-Jekyll also offers powerful support for code snippets:
+The main topics I think I will talk about initially is:
+* Computer Vision
+* Artificial Intelligence
+* Data Structures and Algorithms
+* Mathematics
+* Django Web Framework
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Other things I would like to get into later would be:
+* Embedded Systems
+* Electronics
+* Biomedical Engineering
+* Django REST Framework
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Hoping I can figure out a workflow to do what I envision with this. 
+Wish me luck!
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+And have a nice day! Bye!
