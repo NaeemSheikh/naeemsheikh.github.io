@@ -1,0 +1,293 @@
+- name: Hidden Markov Models (HMMs)
+  categories:
+    - python
+    - artificial-intelligence
+  description: As part of the AI course I took, we built a word recognizer for American Sign Language (ASL) video sequences. We did this project by using hidden Markov models (HMM's) to analyze a series of measurements taken from videos of isolated American Sign Language (ASL) signs.  
+
+- name: Expectation Maximization
+  categories:
+    - python
+    - artificial-intelligence
+    - image-processing
+  description: As part of the AI course I took, we did image segmentation by implementing a Multivariate Gaussian Mixture Model.
+
+- name: Decision Trees & Multiclass-Classification
+  categories: 
+    - python
+    - artificial-intelligence
+  description: As part of the AI course, we implemented Decision Trees which are a type of supervised Machine Learning. We also implemented random forests, and implemented a boosting technique called Ada-boost.
+
+- name: Bayes Nets
+  categories:
+    - python
+    - artificial-intelligence
+  description: As part of the AI course, I worked with probabilistic models known as Bayes networks to efficiently calculate the answer to probability related problems involving discrete random variables.
+
+- name: Adversarial Game Search Algorithms
+  categories:
+    - python
+    - artificial-intelligence
+  description: As part of the AI course, I implemented adversarial search algorithms to build a game playing AI. The algorithms implemented included the Minimax algorithm as well as the AlphaB eta algorithm.
+
+- name: Search Algorithms
+  categories:
+    - python
+    - artificial-intelligence
+  description: As part of the AI course I took, I implemented multiple search algorithms to calculate a route between given points by implementing breadth-first search, uniform-cost search, and A-star search. Improving on this, we implemented the multi-directional version of these search algorithms to improve search performance.
+
+- name: Simultaneous Localization and Mapping (SLAM)
+  categories: 
+    - python
+    - artificial-intelligence
+  description: As part of the Robotics - AI Techniques (RAIT) course I took, I implemented the GraphSLAM algorithm to help a vehicle in a simulated enviroment navigate and reach its goal.
+
+- name: PID control
+  categories:
+    - python
+    - robotics
+  description: As part of the RAIT course, I implemented a PID control system for a vehicle in a simulated enviroment.
+
+- name: Particle Filter
+  categories: 
+    - python
+    - artificial-intelligence
+  description: As part of the RAIT course, I implemented a Particle filter to localize a vehicle in a simulated enviroment.
+
+- name: Kalman Filter
+  categories: 
+    - python
+    - artificial-intelligence
+  description: As part of the RAIT course, I implemented a Kalman filter to localize a vehicle in a simulated enviroment.
+
+- name: Search, Value & Policy Iteration
+  categories: 
+    - python
+    - artificial-intelligence
+  description: As part of the Robotics - AI Techniques (RAIT) course I took, I helped a robot in a simulated environment reach its goal using search algorithms, such as Breadth-first search, Uniform-cost search, and A-star search. After this we accounted for stochasticity in this scenario by implementing value and policy iteration algorithms to generate the best policy.
+
+- name: Stereo Correspondence
+  categories:
+    - computer-vision
+    - python
+    - opencv
+    - stereo-vision
+  description: As a final project for the Computer Vision (CV) course I took, I implemented two stereo correspondence algorithms. The algorithms took a pair of stereo images to generate a disparity map as an output. The first algorithm was a simple sum of squared differences stereo correspondence algorithm. The second was the <a href="https://ieeexplore.ieee.org/document/937668">Kolmogorov and Zabih's stereo correspondence algorithm</a> which utilized energy minimization and graph cuts to generate an output.
+
+- name: Image Classification
+  categories:
+    - computer-vision
+    - python
+    - opencv
+    - artificial-intelligence
+  description: As a part of the CV course, a program implementing face recognition using Principal Component Analysis (PCA), Ada-Boost, and the Viola-Jones Algorithm.
+
+- name: Object Tracking and Pedestrian Detection
+  categories:
+    - computer-vision
+    - python
+    - opencv
+    - artificial-intelligence
+  description: As part of the CV course, this program implemented tracking methods for image sequences and videos by building Kalman and Particle filters from the ground up.
+
+- name: Motion Detection
+  categories:
+    - computer-vision
+    - opencv
+    - python
+  description: As part of the CV course, this program tackled the problem of detecting movement in images as well as frame interpolation using optical flow techniques like Hierarchical Lucas and Kanade algorithm.
+
+- name: Introduction to AR and Image Mosaic
+  categories: 
+    - computer-vision
+    - python
+    - opencv
+  description: This project was a [art of the CV course, where basics concepts of Augmented Reality were introduced and implemented. Notably, Projective geometry, Corner detection, Perspective Imaging, and Homographies were implemented. All this was used to insert images or videos into a source image or video using trackers along with a second portion where we stitched images together.
+
+- name: Template Matching and FFT
+  categories: 
+    - computer-vision
+    - opencv
+    - python
+  description: As part of the Computer Vision (CV) course, this program involved implementing the basic building blocks of image processing. This included using Hough algorithms to detect lines, circles and shapes, Template matching to detect shapes, and implementing Fast Fourier Transform (FFT) and its applications in image processing.
+
+- name: Order Management System API
+  categories:
+    - django
+    - django-rest-framework
+    - backend
+    - rest-api
+    - python
+  description: This was the final project for the course APIs on Coursera by Meta. A restaurant API for an online-based order management system and mobile application was built. It involved creating the back-end API that allows different functionality based on roles. 'Customers' cab browse food items, view the item of the day and place orders. 'Managers' are able to update the item of the day, monitor orders, and assign deliveries. Lastly, the 'delivery' crew can check orders assigned to them and update an order once it’s delivered.
+
+- name: Blog website
+  categories: 
+    - python
+    - django
+  description: As part of learning Django web framework, a simple blog website was built involving CRUD operations.
+
+- name: Restaurant Website
+  categories:
+    - django
+    - backend
+    - backend
+    - python
+  description: This was the final project for the course Django Web Framework on Coursera by Meta. This project involved using django to build a website for the fictional restaurant. This included utilizing the different basic parts of the django framework such as models, views, url dispatcher, forms, etc.
+
+- name: To-Do App
+  categories:
+    - python
+    - django
+    - backend
+  description: Django web framework was used to make a todo-list that performs CRUD operations to maintain a list of items in a list. I used Django web framework for the backend, HTML/CSS and bootstrap for frontend and I even tried the much talked about HTMX to reload parts of the page without reloading the page.
+
+- name: Resuscitation device (US Patent 11,865,256)
+  categories:
+    - c-programming
+    - embedded-systems
+    - 3d-printing
+    - biomedical
+
+# - name: Non-invasive Blood Glucose Measurement using IR
+#   categories:
+#     - c++
+#     - bio-signals
+#     - biomedical
+
+# - name: Covid-19 work
+#   categories:
+#     - 3d-printing
+
+# - name: CSF project
+#   categories:
+
+- name: Portable electrocardiography device (US Patent 11,559,234)
+  categories:
+    - embedded-systems
+    - c-programming
+    - java
+    - processing-library
+    - bio-signals
+    - biomedical
+
+# - name: Glove
+#   categories:
+#     - embedded-systems
+#     - c-programming
+#     - bio-signals
+#     - biomedical
+
+- name: Wearable maternity sensor device (US Patent 11,896,384)
+  categories:
+    - embedded-systems
+    - c-programming
+    - bio-signals
+    - biomedical
+
+# - name: Multiscope
+#   categories:
+#     - 3d-printing
+
+# - name: eStethoscope
+#   categories:
+#   - embedded-systems
+#   - bio-signals
+#   - biomedical
+
+# - name: Stress Monitor
+#   categories:
+
+- name: Real-time Surgical Tool Detection
+  categories:
+    - biomedical
+    - opencv
+    - computer-vision
+  description: I built the prototype of a project using python and OpenCV to keep track of surgical tools to address the issue of tools being misplaced, and on occasion, being left inside a patient during surgery procedures.
+
+- name: Vectorcardiography Clinical Study
+  categories:
+    - basic-programming
+    - automation
+  description: Our team provided hardware and software support for this clinical study. I built two automation programs for them using the software's scripting system to automate data collection and data extraction procedures.
+
+- name: Fire Detection System 
+  categories:
+    - python
+    - raspberry-pi
+    - opencv
+    - computer-vision
+    - embedded-systems
+  description: This was a freelance project where I implemented a real-time fire detection system using a live camera feed with a raspberry pi. As a fire was detected, a connection on the backend was contacted by the detection device which in turn notified any connected users via Smartphone notifications of the issue to allow them to react in a prompt manner. On site, an alarm is triggered to alert anyone nearby as well.
+
+- name: ECG device
+  categories:
+    - arduino
+    - embedded-systems
+    - bio-signals
+    - biomedical
+    - c-programming
+  description: A freelance project where I interfaced a commercially available ECG sensor module with an Arduino board.
+
+
+- name: RFID Drive Security
+  categories:
+    - arduino
+    - embedded-systems
+    - c-programming
+  description: A freelance project in which a simulated road system was provided which had sensors which would interact with vehicles to notify vehicles of real-time information enabling the car to receive information of other cars that might not be visible that the driver should aware of.
+
+- name: Self-Care Wristband
+  categories:
+    - c-programming
+    - embedded-systems
+    - bio-signals
+    - biomedical
+  description: Using different sensors to keep track of patient vitals such as temperature, heart rate as well as utilizing a gyroscope sensor to detect falls. This project aimed to provide support to elderly patients.
+
+- name: EMG Armband
+  categories:
+    - arduino
+    - bio-signals
+    - biomedical
+    - embedded-systems
+    - c-programming
+  description: Final year project for my undergraduate degree in Biomedical Engineering. For this project, I served as the project lead as well as the main programmer of our team. This project involved a system that used EMG signals from the arm as well as movements being tracked by an IMU sensor to interface and interact with devices such as a robot car and even bypassing the mouse on a computer to act as a computer mouse to control the cursor with the signals and movements of the arm. The EMG circuit was designed from the ground up, interfaced with an AtMega328p microcontroller, which communicated with other devices wirelessly using bluetooth.
+
+- name: Line Follower Robot
+  categories:
+    - embedded-systems
+    - arduino
+    - c-programming
+  description: As part of a Robotics course, this course project needed us to implement a line follower robot car. For this, we used a robot car kit to interface sensors and actuators with a AT89C51 microcontroller to navigate a pathway.
+
+- name: Eye blink detection using IR
+  categories:
+    - embedded-systems
+    - assembly-programming
+  description: Using a IR transceiver to detect eye blinking using the AT89C51 microcontroller. This was a project related to Bio-electronics course.
+
+- name: Magnetic Hall Effect Sensor based lock mechanism
+  categories:
+    - embedded-systems
+    - assembly-programming
+  description: As part of a Microcontroller and Microprocessors course, this was a course project where a locking system was built using a magnetic hall effect sensor.
+
+- name: Pong game
+  categories: 
+    - python 
+    - pygame
+    - game-dev
+  description: A program that uses pygame library to create a version of the classic game, Pong.
+
+- name: Tic-Tac-Toe game
+  categories: 
+    - python
+    - pygame
+    - game-dev
+  description: For the fun of it, this was a program that implemented the tic-tac-toe game using pygame.
+
+# - name: 2048 CLI game
+#   categories:
+#     - python
+#     - game-dev
+#     - command-line-interface
+#   description: A simple version of the 2048 game implemented using python to be played on command line.

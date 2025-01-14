@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
-date:   2024-10-16 15:50:40 -0400
+date:   2025-01-14 15:50:40 -0400
 categories: introduction
 ---
 Hi there!
